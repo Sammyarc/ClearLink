@@ -1195,7 +1195,7 @@ video {
   }
   
   .animate-fadeIn {
-    animation: fadeIn 1.5s ease-in forwards;
+    animation: fadeIn 1s ease-in forwards;
   }
   
 .hover\:bg-indigo-900:hover {
